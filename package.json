@@ -1,0 +1,27 @@
+{
+  "name": "readdirstat",
+  "version": "1.0.0",
+  "description": "Displays information (Stat Objects) about files and subdirectories of a specified folder. Based on the nodejs 'readdir' and 'stat' models",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-el/readdirstat.git"
+  },
+  "keywords": [
+    "readdirStat",
+    "readdir",
+    "stat"
+  ],
+  "author": "r-el",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r-el/readdirstat/issues"
+  },
+  "homepage": "https://github.com/r-el/readdirstat#readme"
+}
