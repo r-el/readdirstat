@@ -1,6 +1,6 @@
 {
   "name": "readdirstat",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Displays information (Stat Objects) about files and subdirectories of a specified folder. Based on the nodejs 'readdir' and 'stat' models",
   "main": "index.js",
   "directories": {
